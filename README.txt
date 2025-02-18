@@ -66,5 +66,6 @@ What is Multi-Head Attention?
 
 Resources: https://www.manning.com/books/build-a-large-language-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka_build_12_12_23&a_aid=raschka&a_bid=4c2437a0&chan=mm_github
 https://medium.com/@msouza.os/llm-from-scratch-with-pytorch-9f21808c6319
+https://github.com/Exorust/LLM-Cookbook?tab=readme-ov-file#model-creation
 
 
