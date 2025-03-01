@@ -69,3 +69,5 @@ https://medium.com/@msouza.os/llm-from-scratch-with-pytorch-9f21808c6319
 https://github.com/Exorust/LLM-Cookbook?tab=readme-ov-file#model-creation
 
 
+To do: create a transcrpit of this: https://www.youtube.com/@AndrejKarpathy/videos
+
